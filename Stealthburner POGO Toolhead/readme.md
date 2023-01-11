@@ -46,6 +46,12 @@ For the LGX extruder mount:
 I liked the deisgn made by Eytecz for the LGX Lite, and made a smiliar mount for the LGX.
 - 2x M3x22mm screws for the bottom mount of the LGX
 - 1x UM2 collet.
+
+## Making new Toolheads
+
+The CAD inludes some parts that can be added or trimmed from other SB toolheads to make them compatible to this mod. For a skilled F360 user, it should be quite easy to use.
+
+
 ## Authors
 
 - falcon14141
