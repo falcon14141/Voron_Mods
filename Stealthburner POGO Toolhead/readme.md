@@ -21,7 +21,7 @@ If you install a header on the extruder PCB, you may still have to option to swt
 
 ## Assembly instructions
 
-![toolhead assembly parts](images/toolhead-assembly.png)
+![toolhead assembly parts](images/toolhead-assembly.jpg)
 
 Use the provided toolhead helper to solder the toolhead pogo. This will ensure the right placement of the pogo on the PCB, since this in not a conventional mounting option.
 
