@@ -6,6 +6,8 @@ Both extruder power, and temperature sensor are connected using pogo pins.
 **Beware: This mod requires soldering skills**
 
 ![pogo toolhead on CW2](images/Pogo-CW2.png)
+![pogo toolhead Dragon & Revo](images/collection_front.jpg)
+![pogo toolhead Dragon & Revo](images/collection_top.jpg)
 
 ## Mounting options
 
