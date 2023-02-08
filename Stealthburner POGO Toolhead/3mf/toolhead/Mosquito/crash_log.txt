@@ -1,0 +1,230 @@
+
+EXCEPTION during the print->process():
+SymInit: Symbol-SearchPath: '.;C:\Users\falcon\Work Folders\Documents\GitHub\Voron_Mods\Stealthburner POGO Toolhead\3mf\toolhead\Mosquito;C:\Program Files\SuperSlicer;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*https://msdl.microsoft.com/download/symbols;', symOptions: -2147483114, UserName: 'falcon'
+OS-Version: 10.0.22000 () 0x100-0x1
+C:\Program Files\SuperSlicer\superslicer.exe:superslicer.exe (00007FF6781F0000), size: 167936 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2.4.58.5
+C:\WINDOWS\SYSTEM32\ntdll.dll:ntdll.dll (00007FFF32F60000), size: 2134016 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.918
+C:\WINDOWS\System32\KERNEL32.DLL:KERNEL32.DLL (00007FFF32570000), size: 778240 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1335
+C:\WINDOWS\System32\KERNELBASE.dll:KERNELBASE.dll (00007FFF30A60000), size: 3649536 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1335
+C:\Program Files\Bitdefender\Bitdefender Security\bdhkm\dlls_266028799605032704\bdhkm64.dll:bdhkm64.dll (00007FFEF1290000), size: 823296 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 1.6.228.0
+C:\Program Files\Bitdefender\Bitdefender Security\atcuf\dlls_266149177300000000\atcuf64.dll:atcuf64.dll (00007FFEF0EA0000), size: 1220608 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 1.50.340.0
+C:\WINDOWS\System32\USER32.dll:USER32.dll (00007FFF323C0000), size: 1757184 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1281
+C:\WINDOWS\System32\win32u.dll:win32u.dll (00007FFF30430000), size: 155648 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1335
+C:\WINDOWS\System32\GDI32.dll:GDI32.dll (00007FFF31A80000), size: 167936 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.832
+C:\WINDOWS\System32\gdi32full.dll:gdi32full.dll (00007FFF305D0000), size: 1146880 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1335
+C:\WINDOWS\System32\msvcp_win.dll:msvcp_win.dll (00007FFF309C0000), size: 643072 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1
+C:\WINDOWS\System32\ucrtbase.dll:ucrtbase.dll (00007FFF30830000), size: 1118208 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1
+C:\WINDOWS\System32\SHELL32.dll:SHELL32.dll (00007FFF326A0000), size: 8089600 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1281
+C:\Program Files\SuperSlicer\MSVCP140.dll:MSVCP140.dll (00007FFF03890000), size: 634880 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 14.16.27024.1
+C:\Program Files\SuperSlicer\VCRUNTIME140.dll:VCRUNTIME140.dll (00007FFF28FB0000), size: 110592 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 14.31.31103.0
+C:\Program Files\SuperSlicer\VCRUNTIME140_1.dll:VCRUNTIME140_1.dll (00007FFF285A0000), size: 49152 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 14.31.31103.0
+C:\WINDOWS\System32\IMM32.DLL:IMM32.DLL (00007FFF31560000), size: 204800 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1165
+C:\WINDOWS\System32\shcore.dll:shcore.dll (00007FFF31930000), size: 958464 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.613
+C:\WINDOWS\system32\uxtheme.dll:uxtheme.dll (00007FFF2D670000), size: 704512 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.832
+C:\WINDOWS\System32\combase.dll:combase.dll (00007FFF31F30000), size: 3637248 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1165
+C:\WINDOWS\System32\RPCRT4.dll:RPCRT4.dll (00007FFF30DE0000), size: 1179648 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.675
+C:\WINDOWS\System32\MSCTF.dll:MSCTF.dll (00007FFF31810000), size: 1167360 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1165
+C:\WINDOWS\System32\msvcrt.dll:msvcrt.dll (00007FFF31CE0000), size: 667648 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 7.0.22000.1
+C:\WINDOWS\SYSTEM32\opengl32.dll:opengl32.dll (00007FFE5B6B0000), size: 1052672 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1042
+C:\WINDOWS\System32\ADVAPI32.dll:ADVAPI32.dll (00007FFF31BD0000), size: 712704 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1098
+C:\WINDOWS\System32\sechost.dll:sechost.dll (00007FFF32E60000), size: 647168 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.708
+C:\WINDOWS\SYSTEM32\GLU32.dll:GLU32.dll (00007FFE5B680000), size: 184320 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1042
+C:\WINDOWS\SYSTEM32\dxcore.dll:dxcore.dll (00007FFF2D920000), size: 229376 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.653
+C:\WINDOWS\SYSTEM32\kernel.appcore.dll:kernel.appcore.dll (00007FFF2F560000), size: 98304 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.71
+C:\WINDOWS\System32\bcryptPrimitives.dll:bcryptPrimitives.dll (00007FFF306F0000), size: 520192 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.778
+C:\WINDOWS\System32\clbcatq.dll:clbcatq.dll (00007FFF316E0000), size: 741376 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2001.12.10941.16384
+C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_647b4244e991951b\nvoglv64.dll:nvoglv64.dll (00007FFE58010000), size: 50495488 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 30.0.15.1295
+C:\WINDOWS\System32\SETUPAPI.dll:SETUPAPI.dll (00007FFF310F0000), size: 4636672 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.469
+C:\WINDOWS\System32\ole32.dll:ole32.dll (00007FFF31D90000), size: 1679360 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.120
+C:\WINDOWS\System32\OLEAUT32.dll:OLEAUT32.dll (00007FFF31600000), size: 876544 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1
+C:\WINDOWS\SYSTEM32\WTSAPI32.dll:WTSAPI32.dll (00007FFF2C750000), size: 81920 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1
+C:\WINDOWS\SYSTEM32\VERSION.dll:VERSION.dll (00007FFF29A10000), size: 40960 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1
+C:\WINDOWS\SYSTEM32\CRYPTBASE.DLL:CRYPTBASE.DLL (00007FFF2FBE0000), size: 49152 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1
+C:\WINDOWS\SYSTEM32\msasn1.dll:msasn1.dll (00007FFF2FD20000), size: 73728 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1219
+C:\WINDOWS\SYSTEM32\cryptnet.dll:cryptnet.dll (00007FFF27C10000), size: 200704 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1
+C:\WINDOWS\System32\CRYPT32.dll:CRYPT32.dll (00007FFF30460000), size: 1449984 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1098
+C:\WINDOWS\SYSTEM32\drvstore.dll:drvstore.dll (00007FFF22940000), size: 1347584 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.120
+C:\WINDOWS\SYSTEM32\devobj.dll:devobj.dll (00007FFF30100000), size: 180224 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1
+C:\WINDOWS\SYSTEM32\cfgmgr32.dll:cfgmgr32.dll (00007FFF30130000), size: 311296 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1
+C:\WINDOWS\SYSTEM32\wldp.dll:wldp.dll (00007FFF2FC70000), size: 266240 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1281
+C:\WINDOWS\System32\WINTRUST.dll:WINTRUST.dll (00007FFF30950000), size: 425984 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1281
+C:\WINDOWS\SYSTEM32\ntmarta.dll:ntmarta.dll (00007FFF2F580000), size: 212992 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1
+C:\WINDOWS\SYSTEM32\windows.storage.dll:windows.storage.dll (00007FFF2E4F0000), size: 8802304 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1281
+C:\WINDOWS\SYSTEM32\wintypes.dll:wintypes.dll (00007FFF2E380000), size: 1466368 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1165
+C:\WINDOWS\System32\shlwapi.dll:shlwapi.dll (00007FFF31A20000), size: 380928 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1
+C:\WINDOWS\system32\nvspcap64.dll:nvspcap64.dll (00007FFEC7420000), size: 2945024 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 3.26.0.154
+C:\WINDOWS\SYSTEM32\profapi.dll:profapi.dll (00007FFF30360000), size: 135168 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1
+C:\WINDOWS\SYSTEM32\dwmapi.dll:dwmapi.dll (00007FFF2DA90000), size: 192512 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.41
+C:\Program Files (x86)\Actual Window Manager\aimemb64.dll:aimemb64.dll (0000000001D00000), size: 2531328 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 8.14.7.0
+C:\WINDOWS\SYSTEM32\msimg32.dll:msimg32.dll (00007FFF21B70000), size: 28672 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1
+C:\WINDOWS\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.22000.120_none_9d947278b86cc467\comctl32.dll:comctl32.dll (00007FFF15B00000), size: 2772992 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.10.22000.120
+C:\WINDOWS\SYSTEM32\oleacc.dll:oleacc.dll (00007FFF159F0000), size: 430080 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 7.2.22000.1
+C:\WINDOWS\WinSxS\amd64_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.22000.1219_none_4c503a2dc5749311\gdiplus.dll:gdiplus.dll (00007FFF15DB0000), size: 1781760 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1219
+C:\WINDOWS\SYSTEM32\CRYPTSP.dll:CRYPTSP.dll (00007FFF2FCD0000), size: 98304 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1
+C:\WINDOWS\system32\rsaenh.dll:rsaenh.dll (00007FFF2F4C0000), size: 217088 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.282
+C:\WINDOWS\System32\imagehlp.dll:imagehlp.dll (00007FFF32F00000), size: 126976 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1
+C:\WINDOWS\SYSTEM32\powrprof.dll:powrprof.dll (00007FFF2EDB0000), size: 315392 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1
+C:\WINDOWS\SYSTEM32\UMPDC.dll:UMPDC.dll (00007FFF2EF80000), size: 77824 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1
+C:\WINDOWS\SYSTEM32\WINSTA.dll:WINSTA.dll (00007FFF2F010000), size: 409600 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1042
+C:\WINDOWS\SYSTEM32\bcrypt.dll:bcrypt.dll (00007FFF2FE10000), size: 159744 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1
+C:\Program Files\SuperSlicer\Slic3r.dll:Slic3r.dll (00007FFE0C9B0000), size: 41615360 (result: 0), SymType: '-deferred-', PDB: ''
+C:\WINDOWS\System32\WS2_32.dll:WS2_32.dll (00007FFF32630000), size: 454656 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1
+C:\WINDOWS\System32\COMDLG32.dll:COMDLG32.dll (00007FFF322D0000), size: 966656 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.778
+C:\Program Files\SuperSlicer\libmpfr-4.dll:libmpfr-4.dll (000000006F540000), size: 397312 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 3.0.0.0
+C:\Program Files\SuperSlicer\libgmp-10.dll:libgmp-10.dll (000000006ACC0000), size: 471040 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 5.0.1.0
+C:\WINDOWS\SYSTEM32\WSOCK32.dll:WSOCK32.dll (00007FFF0F320000), size: 36864 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1
+C:\WINDOWS\SYSTEM32\WINSPOOL.DRV:WINSPOOL.DRV (00007FFF15A60000), size: 638976 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1281
+C:\WINDOWS\SYSTEM32\gpapi.dll:gpapi.dll (00007FFF2FA60000), size: 147456 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.978
+C:\WINDOWS\SYSTEM32\secur32.dll:secur32.dll (00007FFF28DF0000), size: 49152 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.675
+C:\WINDOWS\SYSTEM32\SSPICLI.DLL:SSPICLI.DLL (00007FFF2F7F0000), size: 270336 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1098
+C:\WINDOWS\SYSTEM32\iphlpapi.dll:iphlpapi.dll (00007FFF2F080000), size: 184320 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.282
+C:\WINDOWS\SYSTEM32\textinputframework.dll:textinputframework.dll (00007FFF1A970000), size: 1232896 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.282
+C:\WINDOWS\SYSTEM32\CoreMessaging.dll:CoreMessaging.dll (00007FFF2D290000), size: 1249280 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1042
+C:\WINDOWS\SYSTEM32\CoreUIComponents.dll:CoreUIComponents.dll (00007FFF27CC0000), size: 3592192 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.132
+C:\WINDOWS\SYSTEM32\TextShaping.dll:TextShaping.dll (00007FFF161E0000), size: 712704 (result: 0), SymType: '-deferred-', PDB: ''
+C:\WINDOWS\system32\dataexchange.dll:dataexchange.dll (00007FFF0FCB0000), size: 380928 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1
+C:\WINDOWS\system32\twinapi.appcore.dll:twinapi.appcore.dll (00007FFF25A30000), size: 2514944 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.593
+C:\WINDOWS\SYSTEM32\WindowsCodecs.dll:WindowsCodecs.dll (00007FFF26410000), size: 1761280 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1042
+C:\Program Files\Common Files\microsoft shared\ink\tiptsf.dll:tiptsf.dll (00007FFF1A820000), size: 679936 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.71
+C:\WINDOWS\SYSTEM32\atlthunk.dll:atlthunk.dll (00007FFF2C970000), size: 53248 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1
+C:\WINDOWS\SYSTEM32\DUser.dll:DUser.dll (00007FFF1A8D0000), size: 626688 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1
+C:\WINDOWS\system32\mswsock.dll:mswsock.dll (00007FFF2F9F0000), size: 421888 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1
+C:\WINDOWS\SYSTEM32\DNSAPI.dll:DNSAPI.dll (00007FFF2F0B0000), size: 950272 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1165
+C:\WINDOWS\System32\NSI.dll:NSI.dll (00007FFF31BC0000), size: 36864 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1
+C:\Program Files\Bonjour\mdnsNSP.dll:mdnsNSP.dll (0000000062620000), size: 155648 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 3.0.0.10
+C:\Windows\System32\rasadhlp.dll:rasadhlp.dll (00007FFF25E70000), size: 40960 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1
+C:\WINDOWS\System32\fwpuclnt.dll:fwpuclnt.dll (00007FFF2AA20000), size: 528384 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1042
+C:\WINDOWS\system32\schannel.DLL:schannel.DLL (00007FFF2F3C0000), size: 692224 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1165
+C:\WINDOWS\SYSTEM32\mskeyprotect.dll:mskeyprotect.dll (00007FFEFD480000), size: 86016 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1
+C:\WINDOWS\SYSTEM32\NTASN1.dll:NTASN1.dll (00007FFF2FDA0000), size: 225280 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1
+C:\WINDOWS\SYSTEM32\ncrypt.dll:ncrypt.dll (00007FFF2FDE0000), size: 163840 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1
+C:\WINDOWS\system32\ncryptsslp.dll:ncryptsslp.dll (00007FFEFD4D0000), size: 159744 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1
+C:\WINDOWS\system32\propsys.dll:propsys.dll (00007FFF2B970000), size: 1011712 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 7.0.22000.37
+C:\WINDOWS\SYSTEM32\DUI70.dll:DUI70.dll (00007FFF142B0000), size: 1830912 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1
+C:\WINDOWS\system32\explorerframe.dll:explorerframe.dll (00007FFEF00B0000), size: 2555904 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.708
+C:\Windows\System32\thumbcache.dll:thumbcache.dll (00007FFF0D090000), size: 417792 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.51
+C:\WINDOWS\SYSTEM32\policymanager.dll:policymanager.dll (00007FFF2BA70000), size: 659456 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1281
+C:\WINDOWS\SYSTEM32\msvcp110_win.dll:msvcp110_win.dll (00007FFF2B670000), size: 598016 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1
+C:\Windows\System32\Windows.UI.FileExplorer.dll:Windows.UI.FileExplorer.dll (00007FFECA450000), size: 847872 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1281
+C:\Windows\System32\Windows.FileExplorer.Common.dll:Windows.FileExplorer.Common.dll (00007FFEFA160000), size: 491520 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1042
+C:\Windows\System32\iertutil.dll:iertutil.dll (00007FFF29110000), size: 2830336 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 11.0.22000.1098
+C:\WINDOWS\SYSTEM32\windows.staterepositoryclient.dll:windows.staterepositoryclient.dll (00007FFF22750000), size: 253952 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1281
+C:\WINDOWS\SYSTEM32\edputil.dll:edputil.dll (00007FFF152B0000), size: 155648 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1
+C:\WINDOWS\SYSTEM32\VAULTCLI.dll:VAULTCLI.dll (00007FFF13B70000), size: 364544 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.613
+C:\WINDOWS\SYSTEM32\apphelp.dll:apphelp.dll (00007FFF2D580000), size: 598016 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1042
+C:\WINDOWS\system32\NetworkExplorer.dll:NetworkExplorer.dll (00007FFEFAAE0000), size: 98304 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.51
+C:\Windows\System32\uiautomationcore.dll:uiautomationcore.dll (00007FFF14470000), size: 4452352 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 7.2.22000.1281
+C:\Windows\System32\USERENV.dll:USERENV.dll (00007FFF2FA90000), size: 167936 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1
+C:\WINDOWS\SYSTEM32\sxs.dll:sxs.dll (00007FFF302A0000), size: 704512 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1335
+C:\WINDOWS\System32\StructuredQuery.dll:StructuredQuery.dll (00007FFF12E00000), size: 745472 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 7.0.22000.1
+C:\Windows\System32\Windows.System.Launcher.dll:Windows.System.Launcher.dll (00007FFF22790000), size: 1286144 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1165
+C:\WINDOWS\SYSTEM32\windows.staterepositorycore.dll:windows.staterepositorycore.dll (00007FFF285B0000), size: 110592 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1281
+C:\Windows\System32\cldapi.dll:cldapi.dll (00007FFF0D000000), size: 139264 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.653
+C:\WINDOWS\System32\coml2.dll:coml2.dll (00007FFF31AB0000), size: 503808 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1
+C:\WINDOWS\SYSTEM32\LINKINFO.dll:LINKINFO.dll (00007FFF28F70000), size: 53248 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1
+C:\WINDOWS\SYSTEM32\MPR.dll:MPR.dll (00007FFF23D80000), size: 118784 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.778
+C:\WINDOWS\SYSTEM32\cscapi.dll:cscapi.dll (00007FFF03040000), size: 73728 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1
+C:\WINDOWS\System32\netutils.dll:netutils.dll (00007FFF2F1A0000), size: 49152 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.434
+C:\Windows\System32\urlmon.dll:urlmon.dll (00007FFF294F0000), size: 2031616 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 11.0.22000.1219
+C:\Windows\System32\srvcli.dll:srvcli.dll (00007FFF293D0000), size: 163840 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.613
+C:\Windows\System32\twinapi.dll:twinapi.dll (00007FFF1AF80000), size: 819200 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.708
+C:\Windows\System32\dlnashext.dll:dlnashext.dll (00007FFEBC5A0000), size: 356352 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1
+C:\Windows\System32\DevDispItemProvider.dll:DevDispItemProvider.dll (00007FFF13EE0000), size: 135168 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.653
+C:\Program Files (x86)\Common Files\Adobe\CoreSyncExtension\CoreSync_x64.dll:CoreSync_x64.dll (00007FFEFD230000), size: 688128 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 4.3.24.6
+C:\WINDOWS\system32\ntshrui.dll:ntshrui.dll (00007FFEF8510000), size: 524288 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.434
+C:\WINDOWS\SYSTEM32\mscoree.dll:mscoree.dll (00007FFF10DF0000), size: 421888 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscoreei.dll:mscoreei.dll (00007FFF129E0000), size: 696320 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 4.8.4341.0
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\clr.dll:clr.dll (00007FFF10180000), size: 11751424 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 4.8.4515.0
+C:\WINDOWS\SYSTEM32\VCRUNTIME140_CLR0400.dll:VCRUNTIME140_CLR0400.dll (00007FFF126F0000), size: 90112 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 14.10.25028.0
+C:\WINDOWS\SYSTEM32\ucrtbase_clr0400.dll:ucrtbase_clr0400.dll (00007FFF12710000), size: 774144 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 14.10.25028.0
+C:\WINDOWS\System32\psapi.dll:psapi.dll (00007FFF310E0000), size: 32768 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1
+C:\WINDOWS\assembly\NativeImages_v4.0.30319_64\mscorlib\b8493bec853ac702d2188091d76ccffa\mscorlib.ni.dll:mscorlib.ni.dll (00007FFF0D600000), size: 23068672 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 4.8.4515.0
+C:\WINDOWS\assembly\NativeImages_v4.0.30319_64\System\de663b7cf66f2cb480f2fd5556f83cd4\System.ni.dll:System.ni.dll (00007FFF0A6A0000), size: 13045760 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 4.8.4536.0
+C:\WINDOWS\assembly\NativeImages_v4.0.30319_64\System.Drawing\06686d10390d9681f172ac4c804b9018\System.Drawing.ni.dll:System.Drawing.ni.dll (00007FFEF1DA0000), size: 2052096 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 4.8.4395.0
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\clrjit.dll:clrjit.dll (00007FFF0F540000), size: 1372160 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 4.8.4515.0
+C:\Windows\System32\EhStorShell.dll:EhStorShell.dll (00007FFF17160000), size: 225280 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1
+C:\WINDOWS\System32\DriverStore\FileRepository\iastorpinningcomponent.inf_amd64_1efab149a3626196\iaStorAfsServiceApi.dll:iaStorAfsServiceApi.dll (00007FFF29B40000), size: 151552 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 18.1.6.1039
+C:\WINDOWS\assembly\NativeImages_v4.0.30319_64\System.Core\df7dc4390144c81aacff9b460a97618f\System.Core.ni.dll:System.Core.ni.dll (00007FFF092C0000), size: 10964992 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 4.8.4590.0
+C:\WINDOWS\assembly\NativeImages_v4.0.30319_64\System.Configuration\67b285c705e7cef3b2162025a23d82f1\System.Configuration.ni.dll:System.Configuration.ni.dll (00007FFF06C50000), size: 1257472 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 4.8.4341.0
+C:\WINDOWS\assembly\NativeImages_v4.0.30319_64\System.Xml\7ed1acd9bc06362c46e06682b776f46b\System.Xml.ni.dll:System.Xml.ni.dll (00007FFF05410000), size: 9089024 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 4.8.4161.0
+C:\WINDOWS\assembly\NativeImages_v4.0.30319_64\System.Compba577418#\a48b485266b73eedb5e5c8632d938ddf\System.ComponentModel.Composition.ni.dll:System.ComponentModel.Composition.ni.dll (00007FFEFCDD0000), size: 1429504 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 4.8.4161.0
+C:\WINDOWS\system32\WINMM.dll:WINMM.dll (00007FFF28E30000), size: 208896 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1
+C:\Users\falcon\AppData\Local\Microsoft\OneDrive\22.248.1127.0001\FileSyncShell64.dll:FileSyncShell64.dll (00007FFEDD380000), size: 1896448 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 22.248.1127.1
+C:\WINDOWS\SYSTEM32\WININET.dll:WININET.dll (00007FFF0B850000), size: 5222400 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 11.0.22000.1165
+C:\WINDOWS\System32\cscui.dll:cscui.dll (00007FFEE30C0000), size: 860160 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1
+C:\WINDOWS\system32\IconCodecService.dll:IconCodecService.dll (00007FFF286A0000), size: 36864 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1
+C:\Windows\System32\ActXPrxy.dll:ActXPrxy.dll (00007FFF25550000), size: 651264 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.778
+C:\Windows\System32\MrmCoreR.dll:MrmCoreR.dll (00007FFF21200000), size: 1052672 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.120
+C:\Windows\System32\bcp47mrm.dll:bcp47mrm.dll (00007FFF21B80000), size: 184320 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.65
+C:\Program Files\ChiTuBox64 1.8.1\Qt5Widgets.dll:Qt5Widgets.dll (00007FFE847D0000), size: 5529600 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 5.15.1.0
+C:\Program Files\ChiTuBox64 1.8.1\Qt5Gui.dll:Qt5Gui.dll (00007FFE80AE0000), size: 7102464 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 5.15.1.0
+C:\Program Files\ChiTuBox64 1.8.1\Qt5Sql.dll:Qt5Sql.dll (00007FFF0B400000), size: 221184 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 5.15.1.0
+C:\Program Files\ChiTuBox64 1.8.1\Qt5Core.dll:Qt5Core.dll (00007FFE80510000), size: 6070272 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 5.15.1.0
+C:\WINDOWS\SYSTEM32\MSVCP140_1.dll:MSVCP140_1.dll (00007FFF2A0B0000), size: 36864 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 14.29.30133.0
+C:\WINDOWS\SYSTEM32\d3d11.dll:d3d11.dll (00007FFF26980000), size: 2621440 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1042
+C:\WINDOWS\SYSTEM32\dxgi.dll:dxgi.dll (00007FFF2D7E0000), size: 995328 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1042
+C:\WINDOWS\SYSTEM32\NETAPI32.dll:NETAPI32.dll (00007FFF28E00000), size: 102400 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1098
+C:\WINDOWS\SYSTEM32\LOGONCLI.DLL:LOGONCLI.DLL (00007FFF2BB20000), size: 274432 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1165
+C:\WINDOWS\SYSTEM32\SAMCLI.DLL:SAMCLI.DLL (00007FFF25350000), size: 102400 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1
+C:\WINDOWS\SYSTEM32\WKSCLI.DLL:WKSCLI.DLL (00007FFF294D0000), size: 106496 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.613
+C:\Program Files\ChiTuBox64 1.8.1\platforms\qwindows.dll:qwindows.dll (00007FFEC6AE0000), size: 1536000 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 5.15.1.0
+C:\Program Files\ChiTuBox64 1.8.1\styles\qwindowsvistastyle.dll:qwindowsvistastyle.dll (00007FFF280A0000), size: 155648 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 5.15.1.0
+C:\Program Files\ChiTuBox64 1.8.1\sqldrivers\qsqlite.dll:qsqlite.dll (00007FFEC6720000), size: 1429504 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 5.15.1.0
+C:\WINDOWS\system32\d3d9.dll:d3d9.dll (00007FFF1C370000), size: 1728512 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1281
+C:\WINDOWS\SYSTEM32\directxdatabasehelper.dll:directxdatabasehelper.dll (00007FFF2B730000), size: 278528 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.653
+C:\Program Files\ChiTuBox64 1.8.1\imageformats\qgif.dll:qgif.dll (00007FFF2C900000), size: 53248 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 5.15.1.0
+C:\Program Files\ChiTuBox64 1.8.1\imageformats\qicns.dll:qicns.dll (00007FFF2C140000), size: 61440 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 5.15.1.0
+C:\Program Files\ChiTuBox64 1.8.1\imageformats\qico.dll:qico.dll (00007FFF2BF90000), size: 53248 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 5.15.1.0
+C:\Program Files\ChiTuBox64 1.8.1\imageformats\qjpeg.dll:qjpeg.dll (00007FFEDF3E0000), size: 434176 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 5.15.1.0
+C:\Program Files\ChiTuBox64 1.8.1\imageformats\qtga.dll:qtga.dll (00007FFF29B30000), size: 49152 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 5.15.1.0
+C:\Program Files\ChiTuBox64 1.8.1\imageformats\qtiff.dll:qtiff.dll (00007FFEDD5D0000), size: 405504 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 5.15.1.0
+C:\Program Files\ChiTuBox64 1.8.1\imageformats\qwbmp.dll:qwbmp.dll (00007FFF28D50000), size: 45056 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 5.15.1.0
+C:\Program Files\ChiTuBox64 1.8.1\imageformats\qwebp.dll:qwebp.dll (00007FFED80C0000), size: 536576 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 5.15.1.0
+C:\WINDOWS\SYSTEM32\dbghelp.dll:dbghelp.dll (00007FFF2DEB0000), size: 2232320 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1
+C:\WINDOWS\SYSTEM32\dbgcore.DLL:dbgcore.DLL (00007FFF0BFF0000), size: 200704 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1
+C:\WINDOWS\system32\zipfldr.dll:zipfldr.dll (00007FFEE98E0000), size: 339968 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.653
+C:\Program Files\7-Zip\7-zip.dll:7-zip.dll (0000000062D70000), size: 98304 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 19.0.0.0
+C:\WINDOWS\SYSTEM32\CHARTV.dll:CHARTV.dll (00007FFEEA360000), size: 151552 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.653
+C:\Windows\System32\OneCoreUAPCommonProxyStub.dll:OneCoreUAPCommonProxyStub.dll (00007FFF24AE0000), size: 8482816 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1281
+C:\WINDOWS\system32\Windows.Storage.Search.dll:Windows.Storage.Search.dll (00007FFEEA950000), size: 876544 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.51
+C:\Windows\System32\PlayToDevice.dll:PlayToDevice.dll (00007FFE89060000), size: 450560 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.653
+C:\WINDOWS\System32\MMDevApi.dll:MMDevApi.dll (00007FFF1F4B0000), size: 634880 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1042
+C:\WINDOWS\system32\mssprxy.dll:mssprxy.dll (00007FFF18C60000), size: 176128 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 7.0.22000.1281
+C:\WINDOWS\System32\p9np.dll:p9np.dll (00007FFF29050000), size: 180224 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1281
+C:\WINDOWS\System32\drprov.dll:drprov.dll (00007FFF2C960000), size: 49152 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1
+C:\WINDOWS\System32\ntlanman.dll:ntlanman.dll (00007FFF2A9A0000), size: 131072 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.832
+C:\WINDOWS\System32\davclnt.dll:davclnt.dll (00007FFF29C90000), size: 122880 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1
+C:\WINDOWS\System32\cscobj.dll:cscobj.dll (00007FFEE1C30000), size: 331776 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1
+C:\Windows\System32\PortableDeviceApi.dll:PortableDeviceApi.dll (00007FFEEE800000), size: 647168 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.1
+C:\Windows\System32\EhStorAPI.dll:EhStorAPI.dll (00007FFEF7910000), size: 151552 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22000.653
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFF30AA441C)
+00007FFF30AA441C (KERNELBASE): (filename not available): RaiseException
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFF28FB66C0)
+00007FFF28FB66C0 (VCRUNTIME140): (filename not available): CxxThrowException
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFE0D5828A5)
+00007FFE0D5828A5 (Slic3r): (filename not available): cereal::detail::StaticObject<cereal::detail::bind_to_archives<Slic3r::DynamicPrintConfig,cereal::detail::`anonymous namespace'::polymorphic_binding_tag> >::instantiate
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFE0D5840C0)
+00007FFE0D5840C0 (Slic3r): (filename not available): cereal::detail::StaticObject<cereal::detail::bind_to_archives<Slic3r::DynamicPrintConfig,cereal::detail::`anonymous namespace'::polymorphic_binding_tag> >::instantiate
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFE0D581D06)
+00007FFE0D581D06 (Slic3r): (filename not available): cereal::detail::StaticObject<cereal::detail::bind_to_archives<Slic3r::DynamicPrintConfig,cereal::detail::`anonymous namespace'::polymorphic_binding_tag> >::instantiate
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFE0D581D3D)
+00007FFE0D581D3D (Slic3r): (filename not available): cereal::detail::StaticObject<cereal::detail::bind_to_archives<Slic3r::DynamicPrintConfig,cereal::detail::`anonymous namespace'::polymorphic_binding_tag> >::instantiate
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFE0D581D5E)
+00007FFE0D581D5E (Slic3r): (filename not available): cereal::detail::StaticObject<cereal::detail::bind_to_archives<Slic3r::DynamicPrintConfig,cereal::detail::`anonymous namespace'::polymorphic_binding_tag> >::instantiate
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFE0D585B51)
+00007FFE0D585B51 (Slic3r): (filename not available): cereal::detail::StaticObject<cereal::detail::bind_to_archives<Slic3r::DynamicPrintConfig,cereal::detail::`anonymous namespace'::polymorphic_binding_tag> >::instantiate
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFE0D585D09)
+00007FFE0D585D09 (Slic3r): (filename not available): cereal::detail::StaticObject<cereal::detail::bind_to_archives<Slic3r::DynamicPrintConfig,cereal::detail::`anonymous namespace'::polymorphic_binding_tag> >::instantiate
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFE0D585D1D)
+00007FFE0D585D1D (Slic3r): (filename not available): cereal::detail::StaticObject<cereal::detail::bind_to_archives<Slic3r::DynamicPrintConfig,cereal::detail::`anonymous namespace'::polymorphic_binding_tag> >::instantiate
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFE0D585D39)
+00007FFE0D585D39 (Slic3r): (filename not available): cereal::detail::StaticObject<cereal::detail::bind_to_archives<Slic3r::DynamicPrintConfig,cereal::detail::`anonymous namespace'::polymorphic_binding_tag> >::instantiate
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFE0D6E12CA)
+00007FFE0D6E12CA (Slic3r): (filename not available): cereal::detail::StaticObject<cereal::detail::Versions>::lock
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFF30856C0C)
+00007FFF30856C0C (ucrtbase): (filename not available): recalloc
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFF325855A0)
+00007FFF325855A0 (KERNEL32): (filename not available): BaseThreadInitThunk
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFF32F6485B)
+00007FFF32F6485B (ntdll): (filename not available): RtlUserThreadStart
+
