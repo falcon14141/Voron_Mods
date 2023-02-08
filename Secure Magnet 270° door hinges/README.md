@@ -4,7 +4,7 @@
 
 
 Get an easy access to your prints with thoses front doors. In an instant you can get them either fully opened (270°) or even remove them complitely taking advantage of the magnetic hinge magnets !
-
+![frame mount](images/MagnetHinge.png)
 
 
 
@@ -34,7 +34,8 @@ There are 2 parts for the assembly : one for the printer frame the other for the
 
 PRINTER FRAME :
 
-* Place and glue a magnet on the upper hole of each SideMounts WITHOUT removing supports to avoid breakage. *schéma
+* Place and glue a magnet on the upper hole of each SideMounts WITHOUT removing supports to avoid breakage. *
+![frame mount](images/framemount_supports.jpg)
 
 * Remove supports from the SideMounts. There are 2 differents supports on the hindge itself. A circonference around it plus a kind of cone less easy to remove.
         
@@ -53,7 +54,8 @@ DOORS :
 
     Note : Mind the polarity of magnets, the FacePlates and SideMounts magnets have to attract each other, not to repulse !
 
-* Place 2 heat inserts in each FacePlate holes *schéma
+* Place 2 heat inserts in each FacePlate holes *
+![frame mount](images/doorclip.jpg)
 
 * Drill your door panels with 3mm drill bit.  : 8 for the FacePlates on lateral faces of door panels and 8 for the latches at the upper and lower center of the doors. Be careful, plexy is fragile, so go gently and slowly to prevent the plexy from melting. You can use the provided Door-Drill Guide to help finding the right position of holes, or use existing holes
 
