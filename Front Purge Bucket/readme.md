@@ -41,7 +41,7 @@ Done.
 ## BOM
 
 - 8x 6x3mm magnets (N35 or best N52)
-- 1x M3x6mm conical head for the left bucket mount
+- 1x M3x8mm conical head for the left bucket mount
 - 2x M3x8mm screws for the right bucket mount
 - 2x M3x12mm screws for the brush-holder (only 300 and 350mm versions)
 - 2x heated inserts  (only 300 and 350mm versions)
