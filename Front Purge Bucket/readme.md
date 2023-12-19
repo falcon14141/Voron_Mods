@@ -1,7 +1,7 @@
 # **Front purge bucket**
 
 This mod is for a purge bucket installed at the front of a Voron 2.4 3D Printer
-It is relevant if you have replaced your Z Endstop with the TAP sensor.
+It is relevant if you have replaced your Z endstop with the TAP sensor.
 
 I wanted something where:
 - The brush would be inside the bucket, so debris would fall down inside the bucket
@@ -30,9 +30,9 @@ Slide the assembly onto the mount in the bucket
 
 Install T-nuts in the corresponding extrusions and install both buckets mounts. Do not tighten yet, as you want to adjust the bucket position.
 
-Slide the bucket drawer in, set positions, remove drawer, tightent and reiterate until you're happy.
+Slide the bucket drawer in, set positions, remove drawer, tighten and reiterate until you're happy.
 
-Once the bucket has it's position, you can adjust the brush_holder according to your bed's position and tighten both screws.
+Once the bucket has its final position, you can adjust the brush holder according to your bed's position and tighten both screws.
 
 Slide a brush into the mount
 
@@ -44,8 +44,8 @@ Done.
 - 1x M3x8mm conical head for the left bucket mount
 - 2x M3x8mm screws for the right bucket mount
 - 2x M3x12mm screws for the brush-holder (only 300 and 350mm versions)
-- 2x heated inserts  (only 300 and 350mm versions)
-
+- 2x heated inserts (only 300 and 350mm versions)
+- 3x M3 T-nuts
 
 ## Authors
 
